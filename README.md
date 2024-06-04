@@ -37,11 +37,11 @@ Contains:
 Contains:
 
 <ul>
-    <li>items: arr[OrderItem]</li>
+    <li>items: arr[MenuItem]</li>
     <li>total: float</li>
 </ul>
 
-### OrderItem
+### MenuItem
 
 Contains:
 
