@@ -1,0 +1,14 @@
+.navbar {
+    display: flex; /* Makes the navbar elements sit horizontally */
+    align-items: center; /* Aligns content vertically in the center */
+    gap: 1rem; /* Adds a gap of 1rem (can be px, em, etc.) between elements */
+  }
+  
+  .menu-nav,
+  .cart-nav,
+  .login-nav,
+  .signup-nav {
+    padding: 0.5rem 1rem; /* Adds some padding to each navigation item */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+  }
+  

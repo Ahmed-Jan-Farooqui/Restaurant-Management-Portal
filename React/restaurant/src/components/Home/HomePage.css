@@ -1,0 +1,14 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .navbar-container {
+    /* Added styles for the navbar container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensures the container stretches across the full width */
+  }
+  
